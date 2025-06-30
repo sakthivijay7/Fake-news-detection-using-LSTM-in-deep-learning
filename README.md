@@ -38,7 +38,7 @@ model increase it's accuracy at above epoch 5.
 ![output](https://github.com/user-attachments/assets/1891ac6f-2aef-48d0-a82d-6582751970e7)
 
 Accuracy: 0.9735
-Test Acuracy: 0.9734
+Test Accuracy: 0.9734
 
 Prediction:
 prediction greater than 0.5 -Real

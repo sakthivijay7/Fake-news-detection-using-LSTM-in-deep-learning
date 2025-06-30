@@ -4,7 +4,7 @@ Dataset collected from kaggle ,dataset names Fake.csv,True.csv
 Dataset link: https://www.kaggle.com/datasets/clmentbisaillon/fake-and-real-news-dataset
 
 Dataset description:
-Fake and True csv files contains 24k+ values it contains columns title,explain_texts,subject,date ...
+Fake and True csv files contains 20k+ values it contains columns title,explain_texts,subject,date ...
 
 Data handle:
 pandas to read the csv files and create new column to assign label=0(fake),label=1(real)
